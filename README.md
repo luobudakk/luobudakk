@@ -1,4 +1,4 @@
-<h1 align="left">金梓琪 | AI Agent 系统工程师</h1>
+<h1 align="left">JinZiqi | AI Agent 系统工程师</h1>
 
 <p><sub>Updated: 2026-04-25</sub></p>
 
