@@ -1,5 +1,7 @@
 <h1 align="left">金梓琪 | AI Agent 系统工程师</h1>
 
+<p><sub>Updated: 2026-04-25</sub></p>
+
 <p>
   <a href="mailto:3104878423@qq.com"><img src="https://img.shields.io/badge/Email-3104878423%40qq.com-EA4335?logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Phone-19962263271-0ea5e9" />
