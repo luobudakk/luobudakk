@@ -31,7 +31,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/当前在做-AI%20Agent%20Application%20Development-2563EB" />
-  <img src="https://img.shields.io/badge/未来方向1-AI%20Security-7C3AED?logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/未来方向1-AI%20Security-7C3AED?logo=letsencrypt&logoColor=white" />
   <img src="https://img.shields.io/badge/未来方向2-AI%20Infra-0EA5E9?logo=kubernetes&logoColor=white" />
 </p>
 
