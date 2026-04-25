@@ -13,13 +13,7 @@
 ## 工作技术栈（一直在用）
 
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=go,ts,py,fastapi,docker,mysql,sqlite,redis" />
 </p>
 
 <p>
@@ -36,10 +30,9 @@
 ## 职业方向
 
 <p>
-  <img src="https://img.shields.io/badge/当前主线-AI%20Agent%20Application%20Development-2563EB" />
+  <img src="https://img.shields.io/badge/当前在做-AI%20Agent%20Application%20Development-2563EB" />
   <img src="https://img.shields.io/badge/⚡未来方向1-AI%20Security-7C3AED" />
   <img src="https://img.shields.io/badge/🛰️未来方向2-AI%20Infra-0EA5E9" />
-  <img src="https://img.shields.io/badge/🤖未来方向3-Agent%20Infrastructure-0F766E" />
 </p>
 
 ---
