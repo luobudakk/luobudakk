@@ -37,8 +37,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/当前主线-AI%20Agent%20Application%20Development-2563EB" />
-  <img src="https://img.shields.io/badge/未来方向1-AI%20Security-7C3AED" />
-  <img src="https://img.shields.io/badge/未来方向2-AI%20Infra-0EA5E9" />
+  <img src="https://img.shields.io/badge/⚡未来方向1-AI%20Security-7C3AED" />
+  <img src="https://img.shields.io/badge/🛰️未来方向2-AI%20Infra-0EA5E9" />
+  <img src="https://img.shields.io/badge/🤖未来方向3-Agent%20Infrastructure-0F766E" />
 </p>
 
 ---
@@ -61,11 +62,3 @@
 - 仓库：`https://github.com/luobudakk/execraft-playground`
 - 关键词：可复现实验、混沌注入、批量评测、多框架适配
 
----
-
-## GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luobudakk&show_icons=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luobudakk&layout=compact&theme=transparent" />
-</p>
